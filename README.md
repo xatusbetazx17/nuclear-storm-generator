@@ -23,10 +23,8 @@ It includes theoretical energy distribution into advanced sci-fi technologies, w
 
 | Module                   | Description                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|
-| `pure_fusion_launcher.py`| Main execution script                                                       |
-| `fusion_core.py`         | Simulates perfect fusion based on isotope and input mass                   |
-| `plasma_stabilizer.py`   | Models magnetic + AI-based plasma confinement                              |
-| `quantum_energy_grid.py` | Converts energy output into futuristic applications                        |
+| `pure_fusion_core_simulator.py`|       A single-file simulator that includes fusion logic, plasma stabilization, energy efficiency calculations, and futuristic application distribution                                                 |
+
 
 ---
 
