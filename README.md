@@ -31,7 +31,6 @@ It includes theoretical energy distribution into advanced sci-fi technologies, w
 ## 🚀 How to Run
 
 ```bash
-pip install -r requirements.txt
 python pure_fusion_launcher.py
 ```
 
