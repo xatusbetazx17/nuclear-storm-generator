@@ -39,10 +39,19 @@ python pure_fusion_launcher.py
 
 ## 🧪 Simulated Fuels
 
-| Fuel Type        | Type     | Energy (J/kg) | Notes                         |
-|------------------|----------|----------------|-------------------------------|
-| Deuterium-Tritium| Fusion   | 3.4 × 10¹⁴     | Used in H-bombs               |
-| Helium-3         | Fusion   | 5.8 × 10¹⁴     | Ideal fuel (low neutron waste)|
+| Fuel Type                | Type        | Energy (J/kg)           | Notes                                                                 |
+| ------------------------ | ----------- | ----------------------- | --------------------------------------------------------------------- |
+| **Deuterium-Tritium**    | Fusion      | 3.4 × 10¹⁴              | Standard fusion fuel used in hydrogen bombs and experimental reactors |
+| **Helium-3**             | Fusion      | 5.8 × 10¹⁴              | Clean, aneutronic fusion fuel; rare on Earth, abundant on the Moon    |
+| **Deuterium-Deuterium**  | Fusion      | 1.0 × 10¹⁴              | Lower energy than D-T, but doesn't require tritium                    |
+| **Boron-Proton (p-11B)** | Fusion      | 1.2 × 10¹⁵              | Aneutronic, theoretically ideal, requires ultra-high temperatures     |
+| **Antimatter-Hybrid**    | Exotic      | 9.0 × 10¹⁶              | Theoretically highest energy density; extremely difficult to contain  |
+| **Uranium-235**          | Fission     | 8.2 × 10¹³              | Used in fission reactors and atomic bombs                             |
+| **Plutonium-239**        | Fission     | 8.5 × 10¹³              | High neutron yield, used in early weapons                             |
+| **Antimatter-Only**      | Exotic      | 9.0 × 10¹⁶ – 1.8 × 10¹⁷ | Perfect matter-energy conversion (1g = full planetary power)          |
+| **Quantum Condensate**   | Theoretical | Unknown                 | Hypothetical zero-entropy energy from Bose-Einstein fields            |
+
+
 
 ---
 
